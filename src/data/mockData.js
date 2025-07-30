@@ -49,7 +49,7 @@ export const features = [
   {
     id: 2,
     name: 'Feature 2',
-    assignee: 'Trisha Tran',
+    assignee: 'Moin',
     avatar: '👩‍💻',
     progress: 90,
     colors: ['bg-blue-500', 'bg-green-400']
@@ -57,7 +57,7 @@ export const features = [
   {
     id: 3,
     name: 'Feature 3',
-    assignee: 'Nancy Noo',
+    assignee: 'Shaheer',
     avatar: '👩‍🎨',
     progress: 85,
     colors: ['bg-blue-500', 'bg-green-400']
@@ -65,7 +65,7 @@ export const features = [
   {
     id: 4,
     name: 'Feature 4',
-    assignee: 'Jamal Jackson',
+    assignee: 'Faheem',
     avatar: '👨‍🔧',
     progress: 45,
     colors: ['bg-gray-400', 'bg-gray-300']
@@ -73,7 +73,7 @@ export const features = [
   {
     id: 5,
     name: 'Feature 5',
-    assignee: 'Trisha Tran',
+    assignee: 'Zulfiqar',
     avatar: '👩‍💻',
     progress: 60,
     colors: ['bg-gray-400', 'bg-gray-300']
@@ -81,7 +81,7 @@ export const features = [
   {
     id: 6,
     name: 'Feature 6',
-    assignee: 'Nancy Noo',
+    assignee: 'Hamza',
     avatar: '👩‍🎨',
     progress: 30,
     colors: ['bg-gray-400', 'bg-gray-300']
@@ -89,14 +89,14 @@ export const features = [
   {
     id: 7,
     name: 'Feature 7',
-    assignee: 'Jamal Jackson',
+    assignee: 'Shaheer',
     avatar: '👨‍🔧',
     progress: 55,
     colors: ['bg-gray-400', 'bg-gray-300']
   },
   {
     id: 8,
-    name: 'Feature 8',
+    name: 'Zulfiqar',
     assignee: 'Trisha Tran',
     avatar: '👩‍💻',
     progress: 40,
@@ -104,7 +104,7 @@ export const features = [
   },
   {
     id: 9,
-    name: 'Test Features',
+    name: 'Moin',
     assignee: 'Nancy Noo',
     avatar: '👩‍🎨',
     progress: 20,

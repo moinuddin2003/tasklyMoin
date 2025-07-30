@@ -1,5 +1,6 @@
-import React from 'react';
-import ProjectRow from './ProjectRow';
+"use client"
+
+import ProjectRow from "./ProjectRow"
 
 const ProjectsTableHeader = () => {
   return (
@@ -12,8 +13,8 @@ const ProjectsTableHeader = () => {
         <th className="text-left px-6 py-4 text-sm font-semibold text-gray-900">End Date</th>
       </tr>
     </thead>
-  );
-};
+  )
+}
 
 const ProjectsTableBody = ({ projects }) => {
   return (
@@ -22,8 +23,8 @@ const ProjectsTableBody = ({ projects }) => {
         <ProjectRow key={project.id} project={project} />
       ))}
     </tbody>
-  );
-};
+  )
+}
 
 const ProjectsTable = ({ projects }) => {
   return (
@@ -35,7 +36,7 @@ const ProjectsTable = ({ projects }) => {
         </table>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default ProjectsTable;
+export default ProjectsTable
